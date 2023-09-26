@@ -5,7 +5,9 @@
 
 
 <div id="socials" align="center">
-  <a href="https://t.me/kseniya_bliz" class="btn">Telegram</a>
+  <a href="https://t.me/kseniya_bliz">
+    <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
+  </a>
 </div>
 <!--
 **Ksyu13/Ksyu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
