@@ -3,6 +3,10 @@
   <h3>Front-end Developer from Ryazan</h3>
 </div> 
 
+
+<div id="socials" align="center">
+  <a href="https://t.me/kseniya_bliz" class="btn">Telegram</a>
+</div>
 <!--
 **Ksyu13/Ksyu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
