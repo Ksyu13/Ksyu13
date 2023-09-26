@@ -6,7 +6,7 @@
 
 <div id="socials" align="center">
   <a href="https://t.me/kseniya_bliz">
-    <img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
+    <img width="70" height="70" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
   </a>
 </div>
 <!--
