@@ -8,6 +8,10 @@
   <a href="https://t.me/kseniya_bliz">
     <img width="70" height="70" src="https://img.icons8.com/3d-fluency/94/telegram.png" alt="telegram"/>
   </a>
+  <a href="https://vk.com/id12221586">
+    <img width="70" height="70" src="https://img.icons8.com/3d-fluency/94/vk-circled.png" alt="vk-circled"/>
+  </a>
+  
 </div>
 <!--
 **Ksyu13/Ksyu13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
